@@ -9,6 +9,5 @@ workshop. Dyalog 19.0 should also be installed - see the workshop prerquisites
 information
 [here](https://www.dyalog.com/user-meetings/dyalog23/workshops/prerequisites.htm).
 
-To download these files to your PC:
-* From Dyalog: ]get -u https://github.com/dyalog-training/2023-SP2
-* From the command line: git clone https://github.com/dyalog-training/2023-SP2
+To download these files to your PC command line / shell:
+git clone https://github.com/dyalog-training/2023-SP2
