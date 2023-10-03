@@ -3,12 +3,14 @@ Materials for Dyalog'23 workshop TP3 - APL Functions to Import, Export and
 Process Data in Files.
 
 These files will need to be downloaded to your PC before or at the start of the
-workshop. Dyalog 19.0 should also be installed - see the workshop prerquisites
-information
-[here](https://www.dyalog.com/user-meetings/dyalog23/workshops/prerequisites.htm).
+workshop. Dyalog 19.0 should also be installed to fully participate; it is
+available
+[here](https://www.dyalog.com/uploads/conference/dyalog23/presentations/).
 
-To download these files to your PC command line / shell:
-git clone https://github.com/dyalog-training/2023-SP2
+If you do not use normally use git or GitHub the simplest way to download the
+files is:
 
-Or, just save each of the FILE*.txt files on your PC from the GitHub
-repository - Windows users: Right click->Save link as...
+* Click on the green button marked "<> Code"
+* Download ZIP
+
+Then unzip the downloaded file.
